@@ -1,5 +1,5 @@
 # **🚀 Ashwin Madhav A**  
-### **AI Developer | Full-Stack Engineer | Open-Source Contributor**  
+### **Passionate About AI**  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashwin-madhav/">
