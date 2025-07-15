@@ -89,11 +89,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/ashwinmadhav10/ashwinmadhav10/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
 
-<p align="center"> 
-  <b>Visitor Count</b><br>
-  <img src="https://profile-counter.glitch.me/ashwinmadhav10/count.svg">
-</p>
