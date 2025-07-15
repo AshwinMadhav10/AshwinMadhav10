@@ -70,13 +70,6 @@
 
 ---
 
-## **🏆 GitHub Trophies**  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwinmadhav10&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
 
 ## **🚀 Featured Projects**  
 
@@ -88,12 +81,6 @@
 🔹 **[E-Commerce Dashboard](https://github.com/ashwinmadhav10/ecommerce-dashboard)** - React & Django  
 🔹 **[Portfolio Website](https://github.com/ashwinmadhav10/portfolio-website)** - Modern UI with animations  
 
----
-
-## **📌 Latest Blog Posts**  
-📖 **[How to Build a Machine Learning Model in Python](https://medium.com/)**  
-📖 **[Django vs Flask: Which One Should You Choose?](https://medium.com/)**  
-📖 **[Getting Started with React Hooks](https://medium.com/)**  
 
 ---
 
