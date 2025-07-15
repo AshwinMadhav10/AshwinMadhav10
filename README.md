@@ -71,26 +71,7 @@
 ---
 
 
-## **🚀 Featured Projects**  
 
-### **🤖 AI/ML Projects**  
-🔹 **[Fake News Detection](https://github.com/ashwinmadhav10/fake-news-detection)** - NLP-based fake news classifier  
-🔹 **[Face Recognition System](https://github.com/ashwinmadhav10/face-recognition)** - OpenCV & Deep Learning  
-
-### **🌐 Web Development Projects**  
-🔹 **[E-Commerce Dashboard](https://github.com/ashwinmadhav10/ecommerce-dashboard)** - React & Django  
-🔹 **[Portfolio Website](https://github.com/ashwinmadhav10/portfolio-website)** - Modern UI with animations  
-
-
----
-
-## **🎯 Goals for 2024**  
-✅ Contribute to **5+ Open Source Projects**  
-✅ Build **3 AI-powered Web Apps**  
-✅ Master **Django & Flask Frameworks**  
-✅ Learn **Cloud Deployment (AWS/GCP)**  
-
----
 
 ## **📫 Let's Connect!**  
 
