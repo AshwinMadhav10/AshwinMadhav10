@@ -85,4 +85,99 @@
 
 ---
 
+# Ashwin Madhav A
+
+* **MCA Student** | AI & Web Development Enthusiast  
+* Passionate about **Machine Learning**, **Computer Vision**, **Full-Stack Web Apps**, and open source  
+
+---
+
+## 📫 Contact Me
+
+- Lead College, Kochi  
+- Email: ashwin.m@lead.ac.in  
+- LinkedIn: [Ashwin Madhav A](https://www.linkedin.com/in/ashwinmadhav10)  
+
+---
+
+## 🛠 Tech Stack
+
+### AI / Machine Learning & Data Science
+
+Python · TensorFlow · PyTorch · scikit-learn · OpenCV
+
+### Web & Backend Development
+
+Django · Flask · HTML5 · CSS3 · JavaScript · React
+
+### Databases, DevOps & Tools
+
+MySQL · Firebase · Docker · Git  
+
+### Additional
+
+Java · Flutter  
+
+---
+
+## 🚀 Projects & Contributions
+
+Here are some of my notable projects and what I learned through them:
+
+| Project | Description | Key Technologies | What I Learned |
+|---------|-------------|-------------------|-----------------|
+| *Project A* | Short description (what it does / purpose) | e.g. Django, TensorFlow, React | What problem was tricky; what you built; what you improved |
+| *Project B* | … | … | … |
+| *Project C* | … | … | … |
+
+> *Note: Add specific project names with links, highlight those that showcase AI, web development or open source work.*
+
+---
+
+## 🎓 Education
+
+- Master of Computer Applications (MCA), Lead College  
+- Relevant courses: (list 2-3 here: e.g. Machine Learning, Web Dev, Cloud Computing)
+
+---
+
+## 🌱 Currently Learning / Exploring
+
+- Improving skills in **distributed ML systems**, **deployment of deep learning models**  
+- Exploring **cloud platforms** (AWS, GCP, or Azure) for production ML / web services  
+- Learning more about **best practices** in CI/CD, testing, version control
+
+---
+
+## 💬 Fun Facts / Interests
+
+- Love solving algorithmic challenges & participating in hackathons  
+- Exploring computer vision and generative AI  
+- Open source contributions whenever possible  
+
+---
+
+## 📊 GitHub Stats
+
+[![Ashwin’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshwinMadhav10&show_icons=true&theme=dark)](https://github.com/AshwinMadhav10)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinMadhav10&layout=compact)](https://github.com/AshwinMadhav10)
+
+---
+
+## ✨ How to Use This Profile
+
+- Browse through my repositories to see AI / Web App work  
+- Feel free to suggest collaborations / improvements  
+- If you like what you see, connect with me on LinkedIn  
+
+---
+
+## 🔖 Topics
+
+AI · Machine Learning · Django · Flask · React · Computer Vision · Full-Stack Web Dev · Open Source  
+
+---
+
+
+
 
